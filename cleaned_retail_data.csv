@@ -1,0 +1,6 @@
+Order_ID,Customer_Age,Gender,Product,Sales,Order_Date
+101,25,Male,Laptop,50000.0,2026-01-05
+102,30,Female,Phone,20000.0,2026-02-05
+103,30,Male,Tablet,15000.0,2026-03-10
+104,45,Female,Laptop,22500.0,2026-03-15
+105,30,Male,Phone,95000.0,2026-04-01
